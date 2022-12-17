@@ -12,20 +12,20 @@ Desenvolvimento de base gráfica a partir dos dados da saúde do Maciço de Batu
       >2. Com graficos gerais e por indicadores
 
 
-> Referencias : 
+> #Referencias : 
   De dados
   > https://sisab.saude.gov.br/paginas/acessoRestrito/relatorio/federal/indicadores/indicadorPainel2021.xhtml
   > 
   > https://cnes.datasus.gov.br
 
-  Platoforma 
+  ##Platoforma 
   > https://colab.research.google.com
   
-  Linguagem e Bibliotecas
+  ###Linguagem e Bibliotecas
    Python 
     >1. https://www.python.org
     
-   Bibliotecas python: 
+   #Bibliotecas python: 
     >Pandas
       >1. https://pandas.pydata.org 
     >Seaborn
