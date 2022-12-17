@@ -4,6 +4,13 @@ Desenvolvimento de base gráfica a partir dos dados da saúde do Maciço de Batu
 > Municipios: 
   > Acarape, Aracoiaba, Aratuba, Barreira, Baturité, Capistrano, Guaramiranga, Itapiúna, Mulungu, Ocara, Pacoti, Palmácia e Redenção
 
+## Valores dos Arquivos: 
+   >1. Desenvolvimento_Graficos.ipynb 
+      >1. Possue os valores totais em forma de grafico afim de visualizar indices maximos de forma geral
+   >2. Desenvolvimento_de_Dados_(Analise_de_Classificação).ipynb
+      >1. Trás graficos que visam classificar os valores em ruim, razoavel, bom e otimo 
+      >2. Com graficos gerais e por indicadores
+
 
 > Referencias : 
   > 
