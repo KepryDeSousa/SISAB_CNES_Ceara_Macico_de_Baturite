@@ -23,16 +23,16 @@ Desenvolvimento de base gráfica a partir dos dados da saúde do Maciço de Batu
   
   ### Linguagem e Bibliotecas
    Python 
-    >1. https://www.python.org
+    1. https://www.python.org
     
    ## Bibliotecas python: 
-    >Pandas
+    Pandas
       >1. https://pandas.pydata.org 
-    >Seaborn
+    Seaborn
       >2. https://seaborn.pydata.org
-    >Plotly 
+    Plotly 
       >3. https://plotly.com
-    >Numpy 
+    Numpy 
       >4. https://numpy.org
 
 
